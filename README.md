@@ -1,7 +1,7 @@
 # MiSTer_Pix
 .pix images for the [MiSTer_i2c2OLED](https://github.com/venice1200/MiSTer_i2c2oled) project by venice1200.
 
-Images are 128x64 and intended for a one-color 0.96" SSD1306 OLED.  They'll work with any display compatible with the i2c2OLED project, but they might look funny on a two-color display.
+Images are 128x64 and intended for a one-color 0.96" SSD1306 OLED.  They'll work any 128x64 display compatible with the project, but might look funny on a two-color display.
 
 The goal is not to create images for every core, but for the "AAA" stuff (consoles, CPS1/2, and the like).
 
