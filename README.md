@@ -7,6 +7,10 @@ The goal is not to create images for every core, but for the "AAA" stuff (consol
 
 Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this collection:
 
+**Line 464** (under the *Show Loading Screen* function)
+- From `set_cursor 24 5`
+- to `set_cursor 24 3`
+
 ---
 
 ### IMMEDIATE:
