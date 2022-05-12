@@ -9,7 +9,7 @@ Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this 
 
 **Line 464** (under the *Show Loading Screen* function)
 - From `set_cursor 24 5`
-- to `set_cursor 24 3`
+- to `set_cursor 24 4`
 
 ---
 
