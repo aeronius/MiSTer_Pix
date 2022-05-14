@@ -17,17 +17,17 @@ Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this 
 
 **CONSOLE**
 
-- ~~32X~~
+- 32X **-DONE**
 - Game Boy / Game Boy Color
 - GBA
-- ~~Genesis / MegaDrive~~
+- Genesis / MegaDrive **-DONE**
 - SMS / Game Gear
-- ~~Mega CD~~
-- ~~NeoGeo~~
-- ~~NES~~
+- Mega CD **-DONE BUT NOT HAPPY WITH**
+- NeoGeo **-DONE**
+- NES **-DONE**
 - PSX
-- ~~SNES~~
-- ~~TurboGrafx 16 / PC Engine~~
+- SNES **-DONE**
+- TurboGrafx 16 / PC Engin **-DONE**
 
 
 **ARCADE**
@@ -36,15 +36,15 @@ Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this 
 CAPCOM
 
 - 19XX
-- ~~1941~~
-- ~~1942~~
-- ~~1943~~
+- 1941 **-DONE**
+- 1942 **-DONE**
+- 1943 **-DONE**
 - 1944
-- Alien vs Predator
+- Alien vs Predator **-IN PROGRESS**
 - Armored Warriors
 - Battle Circuit
-- Bionic Commando
-- Black Tiger
+- Bionic Commando **-IN PROGRESS**
+- Black Tiger **-IN PROGRESS**
 - Cadillacs and Dinosaurs
 - Capcom Sports Club
 - Captain Commando
@@ -59,11 +59,11 @@ CAPCOM
 - Eco Fighters
 - Exed Exes
 - F-1 Dream
-- Final Fight
+- Final Fight **-IN PROGRESS**
 - Forgotten Worlds
 - Ganbare! Marine Kun
-- ~~Ghosts'n Goblins~~
-- ~~Ghouls'n Ghosts~~
+- Ghosts'n Goblins **-DONE**
+- Ghouls'n Ghosts **-DONE**
 - Giga Wing
 - Gun Smoke
 - Hyper Street Fighter II - Anniversary Ed.
@@ -100,7 +100,7 @@ CAPCOM
 - Street Fighter II: Hyper Fighting
 - Street Fighter Zero: CPS Changer
 - Street Fighter Zero 2 Alpha
-- ~~Strider~~
+- Strider **-DONE**
 - Super Gem Fighter Mini Mix
 - Super Puzzle Fighter II Turbo
 - Super Street Fighter II
@@ -194,7 +194,7 @@ SEGA
 - Flicky
 - Frogger
 - Future Spy
-- ~~Golden Axe~~
+- Golden Axe **-DONE**
 - Hang On Jr
 - Mister Viking
 - MVP
