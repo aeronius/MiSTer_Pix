@@ -49,7 +49,7 @@ CAPCOM
 - Capcom Sports Club
 - Captain Commando
 - Carrier Air Wing
-- Commando
+- Commando **-IN PROGRESS**
 - Cyberbots
 - Darkstalkers: The Night Warriors
 - Dimahoo
@@ -69,7 +69,7 @@ CAPCOM
 - Hyper Street Fighter II - Anniversary Ed.
 - Knights of the Round
 - Legendary Wings
-- Magic Sword
+- Magic Sword **-IN PROGRESS**
 - Mars Matrix
 - Marvel Super Heroes
 - Marvel Super Heroes Vs. Street Fighter
@@ -182,7 +182,7 @@ SEGA
 - Bull Fight
 - Bullet
 - Colony
-- Cotton
+- Cotton **-IN PROGRESS**
 - Dunk SHot
 - Dynamite Dux
 - E-Swat - Cyber Police
