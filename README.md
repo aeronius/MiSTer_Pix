@@ -27,7 +27,7 @@ Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this 
 - NES **-DONE**
 - PSX
 - SNES **-DONE**
-- TurboGrafx 16 / PC Engin **-DONE**
+- TurboGrafx 16 / PC Engine **-DONE**
 
 
 **ARCADE**
@@ -136,7 +136,7 @@ DATA EAST
 - Heavy Barrel
 - Hippodrom
 - Kung-Fu Master
-- Midnight Resistance
+- Midnight Resistance **-IN PROGRESS**
 - RoboCop
 - Secret Agent
 
@@ -144,7 +144,7 @@ DATA EAST
 Konami
 
 - Combat School
-- Contra
+- Contra **-IN PROGRESS**
 - Fast Lane
 - Frogger
 - Green Beret
@@ -233,7 +233,7 @@ TAITO
 
 - Bagman
 - Balloon Bomber
-- Bubble Bobble
+- Bubble Bobble **-IN PROGRESS**
 - Double Dragon II
 - Double Dragon
 - Rastan
