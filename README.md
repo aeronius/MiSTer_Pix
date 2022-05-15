@@ -118,7 +118,7 @@ CAPCOM
 - Varth: Operation Thunderstorm
 - Vulgus
 - Warriors of Fate
-- Willow
+- Willow **-IN PROGRESS**
 - X-Men: Children of the Atom
 - X-Men Vs. Street Fighter
 
@@ -133,11 +133,11 @@ DATA EAST
 - Bad Dudes vs. Dragonninja
 - Boulder Dash
 - Burnin' Rubber
-- Heavy Barrel
+- Heavy Barrel **-IN PROGRESS**
 - Hippodrom
 - Kung-Fu Master
 - Midnight Resistance **-IN PROGRESS**
-- RoboCop
+- RoboCop **- IN PROGRESS**
 - Secret Agent
 
 
@@ -173,7 +173,7 @@ SEGA
 - Alex Kidd: The Lost Stars
 - Ali Baba and 40 Thieves
 - Alien Syndrome
-- Altered Beast
+- Altered Beast **-IN PROGRESS**
 - Astro Flash
 - Aurail
 - Bay Route
