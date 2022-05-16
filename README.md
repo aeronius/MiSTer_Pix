@@ -18,7 +18,7 @@ Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this 
 **CONSOLE**
 
 - 32X **-DONE**
-- Game Boy / Game Boy Color
+- Game Boy / Game Boy Color **-DONE**
 - GBA
 - Genesis / MegaDrive **-DONE**
 - SMS / Game Gear
