@@ -40,16 +40,16 @@ CAPCOM
 - 1942 **-DONE**
 - 1943 **-DONE**
 - 1944
-- Alien vs Predator **-IN PROGRESS**
+- Alien vs Predator **-DONE**
 - Armored Warriors
 - Battle Circuit
-- Bionic Commando **-IN PROGRESS**
-- Black Tiger **-IN PROGRESS**
+- Bionic Commando **-DONE**
+- Black Tiger **-DONE BUT NOT HAPPY WITH**
 - Cadillacs and Dinosaurs
 - Capcom Sports Club
 - Captain Commando
 - Carrier Air Wing
-- Commando **-IN PROGRESS**
+- Commando **-DONE**
 - Cyberbots
 - Darkstalkers: The Night Warriors
 - Dimahoo
@@ -59,7 +59,7 @@ CAPCOM
 - Eco Fighters
 - Exed Exes
 - F-1 Dream
-- Final Fight **-IN PROGRESS**
+- Final Fight **-DONE**
 - Forgotten Worlds
 - Ganbare! Marine Kun
 - Ghosts'n Goblins **-DONE**
@@ -69,7 +69,7 @@ CAPCOM
 - Hyper Street Fighter II - Anniversary Ed.
 - Knights of the Round
 - Legendary Wings
-- Magic Sword **-IN PROGRESS**
+- Magic Sword **-DONE**
 - Mars Matrix
 - Marvel Super Heroes
 - Marvel Super Heroes Vs. Street Fighter
@@ -118,7 +118,7 @@ CAPCOM
 - Varth: Operation Thunderstorm
 - Vulgus
 - Warriors of Fate
-- Willow **-IN PROGRESS**
+- Willow **-DONE**
 - X-Men: Children of the Atom
 - X-Men Vs. Street Fighter
 
@@ -133,18 +133,18 @@ DATA EAST
 - Bad Dudes vs. Dragonninja
 - Boulder Dash
 - Burnin' Rubber
-- Heavy Barrel **-IN PROGRESS**
+- Heavy Barrel **-DONE**
 - Hippodrom
 - Kung-Fu Master
-- Midnight Resistance **-IN PROGRESS**
-- RoboCop **- IN PROGRESS**
+- Midnight Resistance **-DONE**
+- RoboCop **-DONE**
 - Secret Agent
 
 
 Konami
 
 - Combat School
-- Contra **-IN PROGRESS**
+- Contra **-DONE**
 - Fast Lane
 - Frogger
 - Green Beret
@@ -173,7 +173,7 @@ SEGA
 - Alex Kidd: The Lost Stars
 - Ali Baba and 40 Thieves
 - Alien Syndrome
-- Altered Beast **-IN PROGRESS**
+- Altered Beast **-DONE**
 - Astro Flash
 - Aurail
 - Bay Route
@@ -182,7 +182,7 @@ SEGA
 - Bull Fight
 - Bullet
 - Colony
-- Cotton **-IN PROGRESS**
+- Cotton **-DONE**
 - Dunk SHot
 - Dynamite Dux
 - E-Swat - Cyber Police
@@ -233,7 +233,7 @@ TAITO
 
 - Bagman
 - Balloon Bomber
-- Bubble Bobble **-IN PROGRESS**
+- Bubble Bobble **-DONE**
 - Double Dragon II
 - Double Dragon
 - Rastan
