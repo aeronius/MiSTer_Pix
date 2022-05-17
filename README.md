@@ -67,7 +67,7 @@ CAPCOM
 - Ghosts'n Goblins **-DONE**
 - Ghouls'n Ghosts **-DONE**
 - Giga Wing
-- Gun.Smoke **-IN PROGRESS*
+- Gun.Smoke **-IN PROGRESS**
 - Hyper Street Fighter II - Anniversary Ed.
 - Knights of the Round
 - Legendary Wings
