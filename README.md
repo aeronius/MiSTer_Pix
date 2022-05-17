@@ -21,13 +21,13 @@ Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this 
 
 - 32X **-DONE**
 - Game Boy / Game Boy Color **-DONE**
-- GBA
+- GBA **-IN PROGRESS**
 - Genesis / MegaDrive **-DONE**
 - SMS / Game Gear
 - Mega CD **-DONE BUT NOT HAPPY WITH**
 - NeoGeo **-DONE**
 - NES **-DONE**
-- PSX
+- PSX **-IN PROGRESS**
 - SNES **-DONE**
 - TurboGrafx 16 / PC Engine **-DONE**
 
@@ -67,7 +67,7 @@ CAPCOM
 - Ghosts'n Goblins **-DONE**
 - Ghouls'n Ghosts **-DONE**
 - Giga Wing
-- Gun Smoke
+- Gun.Smoke **-IN PROGRESS*
 - Hyper Street Fighter II - Anniversary Ed.
 - Knights of the Round
 - Legendary Wings
