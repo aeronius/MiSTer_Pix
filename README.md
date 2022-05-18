@@ -50,7 +50,7 @@ CAPCOM
 - Cadillacs and Dinosaurs
 - Capcom Sports Club
 - Captain Commando
-- Carrier Air Wing
+- Carrier Air Wing **-IN PROGRESS**
 - Commando **-DONE**
 - Cyberbots
 - Darkstalkers: The Night Warriors
