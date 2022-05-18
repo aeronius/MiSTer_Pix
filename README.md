@@ -127,6 +127,7 @@ CAPCOM
 
 CAVE
 
+- Dangun Feveron
 - DoDonPachi
 - ESP Ra.DE
 
