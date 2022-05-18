@@ -108,12 +108,12 @@ CAPCOM
 - Super Street Fighter II
 - Super Street Fighter II Turbo
 - The King of Dragons
-- The Punisher
+- The Punisher **-IN PROGRESS**
 - The Speed Rumbler
 - Three Wonders
 - Tiger Road
-- Trojan
-- UN Squadron
+- Trojan **-IN PROGRESS**
+- UN Squadron **-IN PROGRESS**
 - Vampire Huner 2: Darkstalkers Revenge
 - Vampire Savior 2: The Lord of Vampire
 - Vampire Savior: The Lord of Vampire
