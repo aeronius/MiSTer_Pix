@@ -27,7 +27,7 @@ Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this 
 - Mega CD **-DONE BUT NOT HAPPY WITH**
 - NeoGeo **-DONE**
 - NES **-DONE**
-- PSX **-DONE*
+- PSX **-DONE**
 - SNES **-DONE**
 - TurboGrafx 16 / PC Engine **-DONE**
 
