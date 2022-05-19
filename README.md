@@ -87,7 +87,7 @@ CAPCOM
 - Pang! 3
 - Pirate Ship Higemaru
 - Pnickies
-- Progear
+- Progear **-IN PROGRESS**
 - Puzz Loop 2
 - Rign of Destruction: Slam Masters II
 - Saturday Night Slam Masters
@@ -111,14 +111,14 @@ CAPCOM
 - The Punisher **-IN PROGRESS**
 - The Speed Rumbler
 - Three Wonders
-- Tiger Road
+- Tiger Road **-IN PROGRESS**
 - Trojan **-IN PROGRESS**
 - UN Squadron **-IN PROGRESS**
 - Vampire Huner 2: Darkstalkers Revenge
 - Vampire Savior 2: The Lord of Vampire
 - Vampire Savior: The Lord of Vampire
 - Varth: Operation Thunderstorm
-- Vulgus
+- Vulgus **-IN PROGRESS**
 - Warriors of Fate
 - Willow **-DONE**
 - X-Men: Children of the Atom
