@@ -238,7 +238,7 @@ TAITO
 - Balloon Bomber
 - Bubble Bobble **-DONE**
 - Double Dragon II
-- Double Dragon
+- Double Dragon **-IN PROGRESS**
 - Rastan
 - Tokio: Scramble Formation
 - V'Ball
