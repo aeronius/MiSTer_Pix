@@ -5,11 +5,19 @@ Images are 128x64 and intended for a one-color 0.96" SSD1306 OLED.  They'll work
 
 The goal is not to create images for every core, but for the "AAA" stuff (consoles, CPS1/2, and the like).
 
-Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this collection:
+---
 
-**Line 464** (under the *Show Loading Screen* function)
+
+## i2c2oled-system.ini
+
+
+Make the following edits to your .ini file when using these images:
+
+1. Leave the `ONECOLOR` option set to `NO`.
+
+2. **Line 464** (under the *Show Loading Screen* function)
 - From `set_cursor 24 5`
-- to `set_cursor 24 4`
+- to `set_cursor 24 4`  
 
 ---
 
@@ -17,41 +25,47 @@ Note that *i2c2oled-system.ini* must be edited if using *loading.pix* from this 
 
 ### PIX LIST
 
-**CONSOLE**
+**UTILITY** (3/3)
 
-- 32X **-DONE**
-- Game Boy / Game Boy Color **-DONE**
-- GBA **-IN PROGRESS**
-- Genesis / MegaDrive **-DONE**
+- ~~Loader~~
+- ~~Menu~~
+- ~~Header~~
+
+**CONSOLE** (9/11)
+
+- ~~32X~~
+- ~~Game Boy / Game Boy Color~~
+- GBA
+- ~~Genesis / MegaDrive~~
 - SMS / Game Gear
-- Mega CD **-DONE BUT NOT HAPPY WITH**
-- NeoGeo **-DONE**
-- NES **-DONE**
-- PSX **-DONE**
-- SNES **-DONE**
-- TurboGrafx 16 / PC Engine **-DONE**
+- ~~Mega CD~~
+- ~~NeoGeo~~
+- ~~NES~~
+- ~~PSX~~
+- ~~SNES~~
+- ~~TurboGrafx 16 / PC Engine~~
 
 
-**ARCADE**
+**ARCADE** (20/86)
 
 
-CAPCOM
+CAPCOM (20/86)
 
 - 19XX
-- 1941 **-DONE**
-- 1942 **-DONE**
-- 1943 **-DONE**
+- ~~1941~~
+- ~~1942~~
+- ~~1943~~
 - 1944
-- Alien vs Predator **-DONE**
+- ~~Alien vs Predator~~
 - Armored Warriors
 - Battle Circuit
-- Bionic Commando **-DONE**
+- ~~Bionic Commando~~
 - Black Tiger **-DONE BUT NOT HAPPY WITH**
 - Cadillacs and Dinosaurs
 - Capcom Sports Club
 - Captain Commando
-- Carrier Air Wing **-IN PROGRESS**
-- Commando **-DONE**
+- ~~Carrier Air Wing~~
+- ~~Commando~~
 - Cyberbots
 - Darkstalkers: The Night Warriors
 - Dimahoo
@@ -61,17 +75,17 @@ CAPCOM
 - Eco Fighters
 - Exed Exes
 - F-1 Dream
-- Final Fight **-DONE**
+- ~~Final Fight~~
 - Forgotten Worlds
 - Ganbare! Marine Kun
-- Ghosts'n Goblins **-DONE**
-- Ghouls'n Ghosts **-DONE**
+- ~~Ghosts'n Goblins~~
+- ~~Ghouls'n Ghosts~~
 - Giga Wing
-- Gun.Smoke **-IN PROGRESS**
+- ~~Gun.Smoke~~
 - Hyper Street Fighter II - Anniversary Ed.
 - Knights of the Round
 - Legendary Wings
-- Magic Sword **-DONE**
+- ~~Magic Sword~~
 - Mars Matrix
 - Marvel Super Heroes
 - Marvel Super Heroes Vs. Street Fighter
@@ -87,7 +101,7 @@ CAPCOM
 - Pang! 3
 - Pirate Ship Higemaru
 - Pnickies
-- Progear **-IN PROGRESS**
+- ~~Progear~~
 - Puzz Loop 2
 - Rign of Destruction: Slam Masters II
 - Saturday Night Slam Masters
@@ -102,52 +116,52 @@ CAPCOM
 - Street Fighter II: Hyper Fighting
 - Street Fighter Zero: CPS Changer
 - Street Fighter Zero 2 Alpha
-- Strider **-DONE**
+- ~~Strider~~
 - Super Gem Fighter Mini Mix
 - Super Puzzle Fighter II Turbo
 - Super Street Fighter II
 - Super Street Fighter II Turbo
 - The King of Dragons
-- The Punisher **-IN PROGRESS**
+- ~~The Punisher~~
 - The Speed Rumbler
 - Three Wonders
-- Tiger Road **-IN PROGRESS**
-- Trojan **-IN PROGRESS**
-- UN Squadron **-IN PROGRESS**
+- ~~Tiger Road~~
+- ~~Trojan~~
+- ~~UN Squadron~~
 - Vampire Huner 2: Darkstalkers Revenge
 - Vampire Savior 2: The Lord of Vampire
 - Vampire Savior: The Lord of Vampire
 - Varth: Operation Thunderstorm
-- Vulgus **-IN PROGRESS**
+- ~~Vulgus~~
 - Warriors of Fate
-- Willow **-DONE**
+- ~~Willow~~
 - X-Men: Children of the Atom
 - X-Men Vs. Street Fighter
 
 
-CAVE
+CAVE (0/3)
 
 - Dangun Feveron
 - DoDonPachi
 - ESP Ra.DE
 
-DATA EAST
+DATA EAST (3/9)
 
 - Bad Dudes vs. Dragonninja
 - Boulder Dash
 - Burnin' Rubber
-- Heavy Barrel **-DONE**
+- ~~Heavy Barrel~~
 - Hippodrom
 - Kung-Fu Master
-- Midnight Resistance **-DONE**
-- RoboCop **-DONE**
+- ~~Midnight Resistance~~
+- ~~RoboCop~~
 - Secret Agent
 
 
-Konami
+Konami (1/23)
 
 - Combat School
-- Contra **-DONE**
+- ~~Contra~~
 - Fast Lane
 - Frogger
 - Green Beret
@@ -170,13 +184,13 @@ Konami
 - Track & Field
 - Trick Trap
 
-SEGA
+SEGA (4/58)
 
 - Action Fighter
 - Alex Kidd: The Lost Stars
 - Ali Baba and 40 Thieves
-- Alien Syndrome **-DONE**
-- Altered Beast **-DONE**
+- ~~Alien Syndrome~~
+- ~~Altered Beast~~
 - Astro Flash
 - Aurail
 - Bay Route
@@ -185,8 +199,8 @@ SEGA
 - Bull Fight
 - Bullet
 - Colony
-- Cotton **-DONE**
-- Dunk SHot
+- ~~Cotton~~
+- Dunk Shot
 - Dynamite Dux
 - E-Swat - Cyber Police
 - Excite League
@@ -197,7 +211,7 @@ SEGA
 - Flicky
 - Frogger
 - Future Spy
-- Golden Axe **-DONE**
+- ~~Golden Axe~~
 - Hang On Jr
 - Mister Viking
 - MVP
@@ -232,23 +246,22 @@ SEGA
 - Zaxxon
 
 
-TAITO
+TAITO (2/8)
 
 - Bagman
 - Balloon Bomber
-- Bubble Bobble **-DONE**
+- ~~Bubble Bobble~~
 - Double Dragon II
-- Double Dragon **-IN PROGRESS**
+- ~~Double Dragon~~
 - Rastan
 - Tokio: Scramble Formation
 - V'Ball
 
 
-TECMO
+TECMO (0/5)
 
 - Bomb Jack
 - Gemini WIng
 - Rygar
 - Silkworm
-- Solomon no Kagi
 - Solomon's Key
