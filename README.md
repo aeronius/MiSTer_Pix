@@ -46,7 +46,7 @@ Make the following edits to your .ini file when using these images:
 - ~~TurboGrafx 16 / PC Engine~~
 
 
-**ARCADE** (20/86)
+**ARCADE**
 
 
 CAPCOM (20/86)
