@@ -49,7 +49,7 @@ Make the following edits to your .ini file when using these images:
 **ARCADE**
 
 
-CAPCOM (20/86)
+CAPCOM (23/85)
 
 - 19XX
 - ~~1941~~
@@ -71,7 +71,7 @@ CAPCOM (20/86)
 - Dimahoo
 - Dungeons and Dragons: Shadow Over Mystara
 - Dungeons and Dragons: Tower of Doom
-- Dynasty Wars
+- ~~Dynasty Wars~~
 - Eco Fighters
 - Exed Exes
 - F-1 Dream
@@ -118,9 +118,8 @@ CAPCOM (20/86)
 - Street Fighter Zero 2 Alpha
 - ~~Strider~~
 - Super Gem Fighter Mini Mix
-- Super Puzzle Fighter II Turbo
-- Super Street Fighter II
-- Super Street Fighter II Turbo
+- ~~Super Street Fighter II~~
+- ~~Super Street Fighter II Turbo~~
 - The King of Dragons
 - ~~The Punisher~~
 - The Speed Rumbler
