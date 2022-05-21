@@ -8,16 +8,17 @@ The goal is not to create images for every core, but for the "AAA" stuff (consol
 ---
 
 
-## i2c2oled-system.ini
+## SETUP
 
+- Make sure you have the most recent i2c2oled files with **updater_i2c2oled**.
+- Add the following Options to your **/media/fat/i2c2oled-user.ini** file if needed
+  - `ONECOLOR="yes"`
+  - `SSH1106="yes"` (if using a SSH1106 display)
+- Add the following folders if they don't exist already
+  - **/media/fat/i2c2oled/Pix_Onecolor**
+  - **/media/fat/i2c2oled/PRI_Onecolor**
+- Add pix images to the **PRI_Onecolor** folder (this will prevent them from being overwritten on subsequent i2c2oled updates)
 
-Make the following edits to your .ini file when using these images:
-
-1. Leave the `ONECOLOR` option set to `NO`.
-
-2. **Line 464** (under the *Show Loading Screen* function)
-- From `set_cursor 24 5`
-- to `set_cursor 24 4`  
 
 ---
 
