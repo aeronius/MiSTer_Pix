@@ -50,7 +50,7 @@ The goal is not to create images for every core, but for the "AAA" stuff (consol
 **ARCADE**
 
 
-CAPCOM (23/85)
+CAPCOM (26/85)
 
 - 19XX
 - ~~1941~~
@@ -112,9 +112,9 @@ CAPCOM (23/85)
 - Street Fighter Alpha
 - Street Fighter Alpha 2
 - Street Fighter Alpha 3
-- Street Fighter II: The World Warrior
-- Street Fighter II: Champion Ed.
-- Street Fighter II: Hyper Fighting
+- ~~Street Fighter II: The World Warrior~~
+- ~~Street Fighter II: Champion Ed.~~
+- ~~Street Fighter II: Hyper Fighting~~
 - Street Fighter Zero: CPS Changer
 - Street Fighter Zero 2 Alpha
 - ~~Strider~~
