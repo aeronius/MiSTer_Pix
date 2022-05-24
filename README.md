@@ -108,7 +108,7 @@ CAPCOM (29/85)
 - Saturday Night Slam Masters
 - Section Z
 - Side Arms
-- Street Fighter
+- ~~Street Fighter~~
 - ~~Street Fighter Alpha~~
 - ~~Street Fighter Alpha 2~~
 - ~~Street Fighter Alpha 3~~
