@@ -62,7 +62,7 @@ CAPCOM (29/85)
 - Battle Circuit
 - ~~Bionic Commando~~
 - Black Tiger **-DONE BUT NOT HAPPY WITH**
-- Cadillacs and Dinosaurs
+- ~~Cadillacs and Dinosaurs~~
 - Capcom Sports Club
 - Captain Commando
 - ~~Carrier Air Wing~~
