@@ -5,7 +5,7 @@ Images are 128x64 and intended for a one-color 0.96" SSD1306 or 1.3" SSH1106 OLE
 
 The goal is not to create images for every core, but for the "AAA" stuff (consoles, CPS1/2, and the like).
 
----
+
 
 ## OLEDs
 
@@ -14,7 +14,6 @@ These are the screens that I've used successfully:
 - 0.93" SSD1306 - [Amazon](https://amzn.to/3MKuYbF)
 - 1.30" SSH1106 - [Amazon](https://amzn.to/37MRBNs)
 
----
 
 ## SETUP
 
@@ -58,7 +57,7 @@ These are the screens that I've used successfully:
 **ARCADE**
 
 
-CAPCOM (29/85)
+CAPCOM (31/85)
 
 - 19XX
 - ~~1941~~
