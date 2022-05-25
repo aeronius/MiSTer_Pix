@@ -11,8 +11,8 @@ The goal is not to create images for every core, but for the "AAA" stuff (consol
 
 These are the screens that I've used successfully:
 
-0.93" SSD1306 - https://amzn.to/3MKuYbF
-1.30" SSH1106 - https://amzn.to/37MRBNs
+- 0.93" SSD1306 - [Amazon](https://amzn.to/3MKuYbF)
+- 1.30" SSH1106 - [Amazon](https://amzn.to/37MRBNs)
 
 ---
 
