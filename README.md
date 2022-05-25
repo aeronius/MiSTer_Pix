@@ -159,7 +159,7 @@ DATA EAST (3/9)
 - Boulder Dash
 - Burnin' Rubber
 - ~~Heavy Barrel~~
-- Hippodrom
+- ~~Hippodrome~~
 - Kung-Fu Master
 - ~~Midnight Resistance~~
 - ~~RoboCop~~
