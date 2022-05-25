@@ -151,6 +151,7 @@ CAVE (0/3)
 - Dangun Feveron
 - DoDonPachi
 - ESP Ra.DE
+- Guwange
 
 DATA EAST (3/9)
 
