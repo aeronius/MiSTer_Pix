@@ -57,7 +57,7 @@ These are the screens that I've used successfully:
 **ARCADE**
 
 
-CAPCOM (31/85)
+CAPCOM (32/85)
 
 - 19XX
 - ~~1941~~
@@ -266,7 +266,7 @@ TAITO (2/8)
 - V'Ball
 
 
-TECMO (0/5)
+TECMO (2/5)
 
 - Bomb Jack
 - ~~Gemini WIng~~
