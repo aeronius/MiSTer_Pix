@@ -114,7 +114,7 @@ CAPCOM (31/85)
 - Rign of Destruction: Slam Masters II
 - Saturday Night Slam Masters
 - Section Z
-- Side Arms
+- ~~Side Arms~~
 - ~~Street Fighter~~
 - ~~Street Fighter Alpha~~
 - ~~Street Fighter Alpha 2~~
@@ -269,7 +269,7 @@ TAITO (2/8)
 TECMO (0/5)
 
 - Bomb Jack
-- Gemini WIng
-- Rygar
+- ~~Gemini WIng~~
+- ~~Rygar~~
 - Silkworm
 - Solomon's Key
