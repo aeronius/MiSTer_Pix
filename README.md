@@ -57,13 +57,13 @@ These are the screens that I've used successfully:
 **ARCADE**
 
 
-CAPCOM (32/85)
+CAPCOM (41/85)
 
-- 19XX
+- ~~19XX~~
 - ~~1941~~
 - ~~1942~~
 - ~~1943~~
-- 1944
+- ~~1944~~
 - ~~Alien vs Predator~~
 - Armored Warriors
 - Battle Circuit
@@ -75,13 +75,13 @@ CAPCOM (32/85)
 - ~~Carrier Air Wing~~
 - ~~Commando~~
 - Cyberbots
-- Darkstalkers: The Night Warriors
+- ~~Darkstalkers: The Night Warriors~~
 - Dimahoo
-- Dungeons and Dragons: Shadow Over Mystara
-- Dungeons and Dragons: Tower of Doom
+- ~~Dungeons and Dragons: Shadow Over Mystara~~
+- ~~Dungeons and Dragons: Tower of Doom~~
 - ~~Dynasty Wars~~
 - Eco Fighters
-- Exed Exes
+- ~~Exed Exes~~
 - F-1 Dream
 - ~~Final Fight~~
 - Forgotten Worlds
@@ -92,16 +92,16 @@ CAPCOM (32/85)
 - ~~Gun.Smoke~~
 - Hyper Street Fighter II - Anniversary Ed.
 - Knights of the Round
-- Legendary Wings
+- ~~Legendary Wings~~
 - ~~Magic Sword~~
 - Mars Matrix
-- Marvel Super Heroes
+- ~~Marvel Super Heroes~~
 - Marvel Super Heroes Vs. Street Fighter
 - Marvel Vs. Capcom: Clash of the Super HEroes
 - Mega Man: The Power Battle
 - Mega Man 2: The Power Fighters
 - Mega Twins
-- Mercs
+- ~~Mercs~~
 - Mighty! Pang
 - Muscle Bomber Duo
 - Nemo
@@ -153,9 +153,9 @@ CAVE (0/3)
 - ESP Ra.DE
 - Guwange
 
-DATA EAST (4/9)
+DATA EAST (5/9)
 
-- Bad Dudes vs. Dragonninja
+- ~~Bad Dudes vs. Dragonninja~~
 - Boulder Dash
 - Burnin' Rubber
 - ~~Heavy Barrel~~
@@ -166,33 +166,33 @@ DATA EAST (4/9)
 - Secret Agent
 
 
-Konami (1/23)
+Konami (8/23)
 
-- Combat School
+- ~~Combat School~~
 - ~~Contra~~
 - Fast Lane
 - Frogger
 - Green Beret
 - Gyruss
-- Hyper SPorts
-- Iron Horse
-- Jackal
+- Hyper Sports
+- ~~Iron Horse~~
+- ~~Jackal~~
 - Jailbreak
 - Konami's Ping Pong
 - Mikie
 - Mr. Goemon
-- MX5000
+- ~~MX5000~~
 - Road Fighter
-- Rush'n Attack
-- Scooter SHooter
+- ~~Rush'n Attack~~
+- Scooter Shooter
 - Super Basketball
 - Time Pilot 84
 - Time Pilot
-- Top Gunner
+- ~~Top Gunner~~
 - Track & Field
-- Trick Trap
+- ~~Trick Trap~~
 
-SEGA (4/58)
+SEGA (8/58)
 
 - Action Fighter
 - Alex Kidd: The Lost Stars
@@ -209,8 +209,8 @@ SEGA (4/58)
 - Colony
 - ~~Cotton~~
 - Dunk Shot
-- Dynamite Dux
-- E-Swat - Cyber Police
+- ~~Dynamite Dux~~
+- ~~E-Swat - Cyber Police~~
 - Excite League
 - Fantasy Zone
 - Fantasy Zone II (16c)
@@ -232,7 +232,7 @@ SEGA (4/58)
 - Regulus
 - Riot City
 - Sega Ninja
-- Shinobi
+- ~~Shinobi~~
 - Slap Shooter
 - Sonic Boom
 - Spatter
@@ -245,7 +245,7 @@ SEGA (4/58)
 - Tetris (16a)
 - Time Scanner
 - Toryumon
-- Tough Turf
+- ~~Tough Turf~~
 - Up'n Down
 - Water Match
 - Wonder Boy
