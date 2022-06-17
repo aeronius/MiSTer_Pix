@@ -57,7 +57,7 @@ These are the screens that I've used successfully:
 **ARCADE**
 
 
-CAPCOM (41/85)
+CAPCOM (60/85)
 
 - ~~19XX~~
 - ~~1941~~
@@ -71,18 +71,18 @@ CAPCOM (41/85)
 - Black Tiger **-DONE BUT NOT HAPPY WITH**
 - ~~Cadillacs and Dinosaurs~~
 - Capcom Sports Club
-- Captain Commando
+- ~~Captain Commando~~
 - ~~Carrier Air Wing~~
 - ~~Commando~~
-- Cyberbots
+- ~~Cyberbots~~
 - ~~Darkstalkers: The Night Warriors~~
 - Dimahoo
 - ~~Dungeons and Dragons: Shadow Over Mystara~~
 - ~~Dungeons and Dragons: Tower of Doom~~
 - ~~Dynasty Wars~~
-- Eco Fighters
+- ~~Eco Fighters~~
 - ~~Exed Exes~~
-- F-1 Dream
+- ~~F-1 Dream~~
 - ~~Final Fight~~
 - Forgotten Worlds
 - Ganbare! Marine Kun
@@ -90,28 +90,28 @@ CAPCOM (41/85)
 - ~~Ghouls'n Ghosts~~
 - Giga Wing
 - ~~Gun.Smoke~~
-- Hyper Street Fighter II - Anniversary Ed.
-- Knights of the Round
+- ~~Hyper Street Fighter II - Anniversary Ed.~~
+- ~~Knights of the Round~~
 - ~~Legendary Wings~~
 - ~~Magic Sword~~
 - Mars Matrix
 - ~~Marvel Super Heroes~~
 - Marvel Super Heroes Vs. Street Fighter
-- Marvel Vs. Capcom: Clash of the Super HEroes
-- Mega Man: The Power Battle
-- Mega Man 2: The Power Fighters
-- Mega Twins
+- ~~Marvel Vs. Capcom: Clash of the Super Heroes~~
+- ~~Mega Man: The Power Battle~~
+- ~~Mega Man 2: The Power Fighters~~
+- ~~Mega Twins~~
 - ~~Mercs~~
 - Mighty! Pang
-- Muscle Bomber Duo
-- Nemo
-- Night Warriors: Darkstalkers Revenge
+- ~~Muscle Bomber Duo~~
+- ~~Nemo~~
+- ~~Night Warriors: Darkstalkers Revenge~~
 - Pang! 3
-- Pirate Ship Higemaru
+- ~~Pirate Ship Higemaru~~
 - Pnickies
 - ~~Progear~~
 - Puzz Loop 2
-- Rign of Destruction: Slam Masters II
+- ~~Rign of Destruction: Slam Masters II~~
 - Saturday Night Slam Masters
 - Section Z
 - ~~Side Arms~~
@@ -128,7 +128,7 @@ CAPCOM (41/85)
 - Super Gem Fighter Mini Mix
 - ~~Super Street Fighter II~~
 - ~~Super Street Fighter II Turbo~~
-- The King of Dragons
+- ~~The King of Dragons~~
 - ~~The Punisher~~
 - The Speed Rumbler
 - Three Wonders
@@ -140,9 +140,9 @@ CAPCOM (41/85)
 - Vampire Savior: The Lord of Vampire
 - Varth: Operation Thunderstorm
 - ~~Vulgus~~
-- Warriors of Fate
+- ~~Warriors of Fate~~
 - ~~Willow~~
-- X-Men: Children of the Atom
+- ~~X-Men: Children of the Atom~~
 - X-Men Vs. Street Fighter
 
 
