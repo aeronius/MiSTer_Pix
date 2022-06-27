@@ -17,188 +17,81 @@ These are the screens that I've used successfully:
 
 ## SETUP
 
-- Make sure you have the most recent i2c2oled files with **updater_i2c2oled**.
-- Add the following Options to your **/media/fat/i2c2oled-user.ini** file if needed
-  - `ONECOLOR="yes"`
-  - `SSH1106="yes"` (if using a SSH1106 display)
-- Add the following folders if they don't exist already
-  - **/media/fat/i2c2oled/Pix_Onecolor**
-  - **/media/fat/i2c2oled/PRI_Onecolor**
-- Add pix images to the **PRI_Onecolor** folder (this will prevent them from being overwritten on subsequent i2c2oled updates)
+Follow Venice's guide (linked above) to add these images to your MiSTer.
 
 
 ---
 
-[PIX VIEWER](https://venice1200.github.io/MiSTer_tty2oled_Pictures/#)
+[PIX VIEWER](https://venice1200.github.io/MiSTer_tty2oled_Pictures/#) |
+[STATUS TRACKER](https://docs.google.com/spreadsheets/d/16aKUWIhPhwYo0ZnxtCIWcklsAyKJVzEcf94qeOMLsFY/edit?usp=sharing)
 
-### PIX LIST
+### CURRENT ROADMAP
 
-**UTILITY** (3/3)
-
-- ~~Loader~~
-- ~~Menu~~
-- ~~Header~~
-
-**CONSOLE** (9/11)
-
-- ~~32X~~
-- ~~Game Boy / Game Boy Color~~
+**CONSOLE**
 - GBA
-- ~~Genesis / MegaDrive~~
 - SMS / Game Gear
-- ~~Mega CD~~
-- ~~NeoGeo~~
-- ~~NES~~
-- ~~PSX~~
-- ~~SNES~~
-- ~~TurboGrafx 16 / PC Engine~~
 
 
 **ARCADE**
-
-
-CAPCOM (60/85)
-
-- ~~19XX~~
-- ~~1941~~
-- ~~1942~~
-- ~~1943~~
-- ~~1944~~
-- ~~Alien vs Predator~~
+CAPCOM
 - Armored Warriors
 - Battle Circuit
-- ~~Bionic Commando~~
-- Black Tiger **-DONE BUT NOT HAPPY WITH**
-- ~~Cadillacs and Dinosaurs~~
 - Capcom Sports Club
-- ~~Captain Commando~~
-- ~~Carrier Air Wing~~
-- ~~Commando~~
-- ~~Cyberbots~~
-- ~~Darkstalkers: The Night Warriors~~
 - Dimahoo
-- ~~Dungeons and Dragons: Shadow Over Mystara~~
-- ~~Dungeons and Dragons: Tower of Doom~~
-- ~~Dynasty Wars~~
-- ~~Eco Fighters~~
-- ~~Exed Exes~~
-- ~~F-1 Dream~~
-- ~~Final Fight~~
 - Forgotten Worlds
 - Ganbare! Marine Kun
-- ~~Ghosts'n Goblins~~
-- ~~Ghouls'n Ghosts~~
 - Giga Wing
-- ~~Gun.Smoke~~
-- ~~Hyper Street Fighter II - Anniversary Ed.~~
-- ~~Knights of the Round~~
-- ~~Legendary Wings~~
-- ~~Magic Sword~~
 - Mars Matrix
-- ~~Marvel Super Heroes~~
 - Marvel Super Heroes Vs. Street Fighter
-- ~~Marvel Vs. Capcom: Clash of the Super Heroes~~
-- ~~Mega Man: The Power Battle~~
-- ~~Mega Man 2: The Power Fighters~~
-- ~~Mega Twins~~
-- ~~Mercs~~
 - Mighty! Pang
-- ~~Muscle Bomber Duo~~
-- ~~Nemo~~
-- ~~Night Warriors: Darkstalkers Revenge~~
 - Pang! 3
-- ~~Pirate Ship Higemaru~~
 - Pnickies
-- ~~Progear~~
 - Puzz Loop 2
-- ~~Rign of Destruction: Slam Masters II~~
 - Saturday Night Slam Masters
 - Section Z
-- ~~Side Arms~~
-- ~~Street Fighter~~
-- ~~Street Fighter Alpha~~
-- ~~Street Fighter Alpha 2~~
-- ~~Street Fighter Alpha 3~~
-- ~~Street Fighter II: The World Warrior~~
-- ~~Street Fighter II: Champion Ed.~~
-- ~~Street Fighter II: Hyper Fighting~~
 - Street Fighter Zero: CPS Changer
 - Street Fighter Zero 2 Alpha
-- ~~Strider~~
 - Super Gem Fighter Mini Mix
-- ~~Super Street Fighter II~~
-- ~~Super Street Fighter II Turbo~~
-- ~~The King of Dragons~~
-- ~~The Punisher~~
 - The Speed Rumbler
 - Three Wonders
-- ~~Tiger Road~~
-- ~~Trojan~~
-- ~~UN Squadron~~
 - Vampire Huner 2: Darkstalkers Revenge
 - Vampire Savior 2: The Lord of Vampire
 - Vampire Savior: The Lord of Vampire
-- Varth: Operation Thunderstorm
-- ~~Vulgus~~
-- ~~Warriors of Fate~~
-- ~~Willow~~
-- ~~X-Men: Children of the Atom~~
 - X-Men Vs. Street Fighter
 
-
 CAVE (0/3)
-
 - Dangun Feveron
 - DoDonPachi
 - ESP Ra.DE
 - Guwange
 
 DATA EAST (5/9)
-
-- ~~Bad Dudes vs. Dragonninja~~
 - Boulder Dash
 - Burnin' Rubber
-- ~~Heavy Barrel~~
-- ~~Hippodrome~~
 - Kung-Fu Master
-- ~~Midnight Resistance~~
-- ~~RoboCop~~
 - Secret Agent
 
-
 Konami (8/23)
-
-- ~~Combat School~~
-- ~~Contra~~
 - Fast Lane
 - Frogger
 - Green Beret
 - Gyruss
 - Hyper Sports
-- ~~Iron Horse~~
-- ~~Jackal~~
 - Jailbreak
 - Konami's Ping Pong
 - Mikie
 - Mr. Goemon
-- ~~MX5000~~
 - Road Fighter
-- ~~Rush'n Attack~~
 - Scooter Shooter
 - Super Basketball
 - Time Pilot 84
 - Time Pilot
-- ~~Top Gunner~~
 - Track & Field
-- ~~Trick Trap~~
 
-SEGA (8/58)
-
+SEGA
 - Action Fighter
 - Alex Kidd: The Lost Stars
 - Ali Baba and 40 Thieves
-- ~~Alien Syndrome~~
-- ~~Altered Beast~~
 - Astro Flash
 - Aurail
 - Bay Route
@@ -207,10 +100,7 @@ SEGA (8/58)
 - Bull Fight
 - Bullet
 - Colony
-- ~~Cotton~~
 - Dunk Shot
-- ~~Dynamite Dux~~
-- ~~E-Swat - Cyber Police~~
 - Excite League
 - Fantasy Zone
 - Fantasy Zone II (16c)
@@ -219,7 +109,6 @@ SEGA (8/58)
 - Flicky
 - Frogger
 - Future Spy
-- ~~Golden Axe~~
 - Hang On Jr
 - Mister Viking
 - MVP
@@ -232,7 +121,6 @@ SEGA (8/58)
 - Regulus
 - Riot City
 - Sega Ninja
-- ~~Shinobi~~
 - Slap Shooter
 - Sonic Boom
 - Spatter
@@ -245,7 +133,6 @@ SEGA (8/58)
 - Tetris (16a)
 - Time Scanner
 - Toryumon
-- ~~Tough Turf~~
 - Up'n Down
 - Water Match
 - Wonder Boy
@@ -253,23 +140,15 @@ SEGA (8/58)
 - Wrestle War
 - Zaxxon
 
-
-TAITO (2/8)
-
+TAITO
 - Bagman
 - Balloon Bomber
-- ~~Bubble Bobble~~
 - Double Dragon II
-- ~~Double Dragon~~
 - Rastan
 - Tokio: Scramble Formation
 - V'Ball
 
-
-TECMO (2/5)
-
+TECMO
 - Bomb Jack
-- ~~Gemini WIng~~
-- ~~Rygar~~
 - Silkworm
 - Solomon's Key
