@@ -59,19 +59,19 @@ CAPCOM
 - Vampire Savior: The Lord of Vampire
 - X-Men Vs. Street Fighter
 
-CAVE (0/3)
+CAVE
 - Dangun Feveron
 - DoDonPachi
 - ESP Ra.DE
 - Guwange
 
-DATA EAST (5/9)
+DATA EAST
 - Boulder Dash
 - Burnin' Rubber
 - Kung-Fu Master
 - Secret Agent
 
-Konami (8/23)
+Konami
 - Fast Lane
 - Frogger
 - Green Beret
