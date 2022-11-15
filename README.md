@@ -1,4 +1,7 @@
 # MiSTer_Pix
+
+[PIX VIEWER](https://venice1200.github.io/MiSTer_tty2oled_Pictures/#)
+
 .pix images for the [MiSTer_i2c2OLED](https://github.com/venice1200/MiSTer_i2c2oled) project by venice1200.
 
 Images are 128x64 and intended for a one-color 0.96" SSD1306 or 1.3" SSH1106 OLED.  They'll work any 128x64 display compatible with the project, but might look funny on a two-color display.
@@ -22,119 +25,123 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 
 ---
 
-[PIX VIEWER](https://venice1200.github.io/MiSTer_tty2oled_Pictures/#) |
-[STATUS TRACKER](https://docs.google.com/spreadsheets/d/16aKUWIhPhwYo0ZnxtCIWcklsAyKJVzEcf94qeOMLsFY/edit?usp=sharing)
+
 
 ## CURRENT ROADMAP
 
-**CONSOLE**
-- 32X
-- Gameboy
+**CONSOLE** (9/10)
+- ~~32X~~
+- ~~Gameboy~~
 - GBA
-- Genesis
-- Sega CD
-- Neo Geo
-- NES
-- PSX
-- SNES
-- TurboGrafx 16
+- ~~Genesis~~
+- ~~Sega CD~~
+- ~~Neo Geo~~
+- ~~NES~~
+- ~~PSX~~
+- ~~SNES~~
+- ~~TurboGrafx 16~~
 ## 
-**ATARI**
+**ATARI** (0/8)
+- Asteroids Deluxe
+- Asteroids
+- Black Widow
+- Centipede
 - Gauntlet
 - Gauntlet II
+- Lunar Lander
+- Missile Command
 ## 
-**CAPCOM CPS0**
-- 1942
-- 1943
-- 1943 Mk II
-- Bionic Commando
-- Black Tiger
-- Commando
-- Exed Exes
-- F1 Dream
-- Ghosts'n Goblins
-- Gun Smoke
-- Legendary Wings
-- Pirate Ship Higemaru
+**CAPCOM CPS0** (16/18)
+- ~~1942~~
+- ~~1943 - The Battle of Midway~~
+- ~~Bionic Commando~~
+- ~~Black Tiger~~ (Should probably redo this)
+- ~~Commando~~
+- ~~Exed Exes~~
+- ~~F1 Dream~~
+- ~~Ghosts'n Goblins~~
+- ~~Gun Smoke~~
+- ~~Legendary Wings~~
+- ~~Pirate Ship Higemaru~~
 - Section Z
-- Side Arms
-- Street Fighter
+- ~~Side Arms~~
+- ~~Street Fighter~~
 - The Speed Rumbler
-- Tiger Road
-- Trojan
-- Vulgus
+- ~~Tiger Road~~
+- ~~Trojan~~
+- ~~Vulgus~~
 ## 
-**CAPCOM CPS1**
-- 1941 - Counter Attack
+**CAPCOM CPS1** (23/29)
+- ~~1941 - Counter Attack~~
 - Block Block
-- Cadillacs and Dinosaurs
-- Captain Commando
-- Carrier Air WIng
-- Dynasty Wars
-- Final Fight
+- ~~Cadillacs and Dinosaurs~~
+- ~~Captain Commando~~
+- ~~Carrier Air WIng~~
+- ~~Dynasty Wars~~
+- ~~Final Fight~~
 - Forgotten Worlds
-- Ghouls'n Ghosts
-- Knights of the Round
-- Magic Sword - Heroic Fantasy
-- Mega Man - Thw Power Battle
-- Mega Twins
-- Mercs
-- Muscle Bomber Duo
-- Nemo
+- ~~Ghouls'n Ghosts~~
+- ~~Knights of the Round~~
+- ~~Magic Sword - Heroic Fantasy~~
+- ~~Mega Man - The Power Battle~~
+- ~~Mega Twins~~
+- ~~Mercs~~
+- ~~Muscle Bomber Duo~~
+- ~~Nemo~~
 - Pnickies
 - Saturday Night Slam Masters
-- Street Fighter II - The World Warrior
-- Street Fighter II' Champion Edition
-- Street Fighter II' Hyper Fighting
-- Strider
+- ~~Street Fighter II - The World Warrior~~
+- ~~Street Fighter II' Champion Edition~~ (w/ Alt)
+- ~~Street Fighter II' Hyper Fighting~~ (w/ Alt)
+- ~~Strider~~
 - The King of Dragons
-- The Punisher
+- ~~The Punisher~~
 - Three Wonders
-- UN Squadron
-- Varth - Operation Thunderstorm
-- Warriors of Fate
-- Willow
+- ~~UN Squadron~~
+- ~~Varth - Operation Thunderstorm~~
+- ~~Warriors of Fate~~
+- ~~Willow~~
 ## 
-**CAPCOM CPS2**
-- 19XX - The War Against Destiny
-- 1944 - The Loop Master
-- Alien vs. Predator
+**CAPCOM CPS2** (22/34)
+- ~~19XX - The War Against Destiny~~
+- ~~1944 - The Loop Master~~
+- ~~Alien vs. Predator~~
 - Armored Warriors
 - Battle Circuit
-- Cyberbots - Fullmetal Madness
-- Darkstalkers - The Night Warriors
+- ~~Cyberbots - Fullmetal Madness~~
+- ~~Darkstalkers - The Night Warriors~~
 - Dimahoo
-- Dungeons & Dragons - Shadow Over Mystara
-- Dungeons & Dragons - Tower of Doom
-- Eco Fighters
+- ~~Dungeons & Dragons - Shadow Over Mystara~~
+- ~~Dungeons & Dragons - Tower of Doom~~
+- ~~Eco Fighters~~
 - Gig Wing
-- Hyper Street Fighter II - The Anniversary Edition
+- ~~Hyper Street Fighter II - The Anniversary Edition~~
 - Mars Matrix
-- Marvel Super Heroes
+- ~~Marvel Super Heroes~~
 - Marvel Super Heroes Vs. Street Fighter
-- Marvel Vs. Capcom - Clash of the Super Heroes
-- Mega Man 2 - The Power Fighters
-- Night Warriors - Darkstalkers Revenge
-- Progear
-- Ring of Destruction
-- Street Fighter Alpha
-- Street Fighter Alpha 2
-- Street Fighter Alpha 3
+- ~~Marvel Vs. Capcom - Clash of the Super Heroes~~
+- ~~Mega Man 2 - The Power Fighters~~
+- ~~Night Warriors - Darkstalkers Revenge~~
+- ~~Progear~~
+- ~~Ring of Destruction~~
+- ~~Street Fighter Alpha~~
+- ~~Street Fighter Alpha 2~~
+- ~~Street Fighter Alpha 3~~
 - Street Fighter Zero 2 Alpha
 - Super Gem Fighter Mini Mix
 - Super Puzzle Fighter II Turbo
-- Super Street Fighter II
-- Super Street Fighter II Turbo
+- ~~Super Street Fighter II~~
+- ~~Super Street Fighter II Turbo~~
 - Vampire Hunter 2
 - Vampire Savior 2
 - Vampire Savior
-- X-Men - Children of the Atom
-- X-Men Vs. Street Fighter
+- ~~X-Men - Children of the Atom~~
+- ~~X-Men Vs. Street Fighter~~
 ## 
 **CAPCOM CPS3**
 - TBD
 ## 
-**CAVE**
+**CAVE** (0/7)
 - Dangun Feveron
 - DoDonPachi
 - DonPachi
@@ -143,42 +150,18 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Gaia Crusaders
 - Guwange
 ## 
-**DATA EAST**
-- Bad Dues vs. Dragonninja
+**DATA EAST** (5/9)
+- ~~Bad Dues vs. Dragonninja~~
 - Burger Time
-- Heavy Barrel
-- Hippodrom
+- ~~Heavy Barrel~~
+- ~~Hippodrome~~
 - Karate Champ
 - Kung-Fu Master
-- Midnight Resistance
-- Robocop
+- ~~Midnight Resistance~~
+- ~~Robocop~~
 - Secret Agent
 ## 
-**GOLDEN AGE**
-- Asteroids Deluxe
-- Asteroids
-- Black Widow
-- Centipede
-- Defender
-- Dig Dug
-- Dig Dug II
-- Galaga
-- Galaxian
-- Joust
-- Joust 2
-- Lunar Lander
-- Missile Command
-- Ms. Pac-Man
-- Pac-Man
-- Q'Bert
-- Robotron 2084
-- Sinistar
-- Space Invaders
-- Spy Hunter
-- Super Pac-Man
-- Tapper
-## 
-**IREM**
+**IREM** (0/14)
 - Air Duel
 - Dragon Breed
 - Gallop - Armed Police Unit
@@ -194,33 +177,43 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Vigilante
 - X Multiply
 ## 
-**KONAMI**
-- Combat School Joystick
-- Contra
+**KONAMI** (9/24)
+- ~~Combat School~~
+- ~~Contra~~
 - Fast Lane
 - Frogger
 - Green Beret
 - Gyruss
 - Hyper Sports
-- Iron Horse
-- Jackal
+- ~~Iron Horse~~
+- ~~Jackal~~
 - Jailbreak
 - Kicker
 - Konami's Ping Pong
 - Mr. Goemon
-- MX5000
+- ~~MX5000~~
 - Road Fighter
 - Roc'n Rope
-- Rush'n Attack
+- ~~Rush'n Attack~~
 - Scooter Shooter
 - Super Basketball
 - Time Pilot
-- Top Gunner
-- Track & Field
-- Trick Trap
+- ~~Top Gunner~~
+- ~~Track & Field~~
+- ~~Trick Trap~~
 - Yie Ar Kung-Fu
 ## 
-**NINTENDO**
+**NAMCO** (0/8)
+- Dig Dug
+- Dig Dug II
+- Galaga
+- Galaxian
+- Pac-Man
+- Super Pac-Man
+- Super Xevious
+- Xevious
+## 
+**NINTENDO** (0/6)
 - Donkey Kong
 - Donkey Kong 3
 - Donkey Kong Junior
@@ -228,26 +221,31 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Popeye
 - Radar Scope
 ## 
-**OTHER**
-- Ikari Warriors
+**MIDWAY** (0/5)
+- Ms. Pac-Man
 - Rampage
-- Squash
-- Super Xevious
-- Victory Road
-- Xevious
+- Space Invaders
+- Spy Hunter
+- Tapper
 ## 
-**RAIZING**
+**OTHER** (0/4)
+- Ikari Warriors (SNK)
+- Victory Road (SNK)
+- Q'Bert (Gottlieb)
+- Squash (Gaelco)
+## 
+**RAIZING** (0/5)
 - Armed Police Batrider
 - Battle Bakraid
 - Battle Garegga
 - Kingdom Grandprix
 - Sorcer Striker
 ## 
-**SEGA OUT RUN**
+**SEGA OUT RUN** (0/2)
 - Out Run
 - Super Hang-On
 ## 
-**SEGA SYSTEM 1**
+**SEGA SYSTEM 1** (0/14)
 - 4D Warriors
 - Flicky
 - Mister Viking
@@ -263,57 +261,66 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Water Match
 - Wonder Boy
 ## 
-**SEGA SYSTEM 16**
+**SEGA SYSTEM 16** (8/23)
 - Action Fighter
 - Alex Kidd - The Lost Stars
-- Alien Syndrome
-- Altered Beast
+- ~~Alien Syndrome~~
+- ~~Altered Beast~~
 - Aurail
 - Bay Route
 - Body Slam
 - Bullet
-- Cotton
-- Dynamite Dux
-- E-Swat
+- ~~Cotton~~
+- ~~Dynamite Dux~~
+- ~~E-Swat~~
 - Fantasy Zone
 - Fantasy Zone II
-- Golden Axe
+- ~~Golden Axe~~
 - MVP
 - Riot City
-- Shinobi
+- ~~Shinobi~~
 - Sonic Boom
 - Tetris
 - Time Scanner
-- Tough Turf
+- ~~Tough Turf~~
 - Wonder Boy III - Monster Lair
 - Wrestle War
 ## 
-**SEGA SYSTEM E**
+**SEGA SYSTEM E** (0/4)
 - Hang On Jr.
 - Opa Opa
 - Slap Shooter
 - Tetris
 ## 
-**SEGA ZAXXON**
+**SEGA ZAXXON** (0/3)
 - Future Spy
 - Super Zaxxon
 - Zaxxon
 ## 
-**TAITO**
-- Bubble Bobble
+**TAITO** (1/5)
+- ~~Bubble Bobble~~
 - Colony 7
 - Rastan
 - Space Invaders Part II
 - Tokio - Scramble Formation
 ## 
-**TECHNOS**
-- Double Dragon
+**TECHNOS** (1/4)
+- ~~Double Dragon~~
 - Double Dragon II
 - Renegade
 - V'Ball
 ## 
-**TECMO**
-- Gemini Wing
-- Rygar
+**TECMO** (2/3)
+- ~~Gemini Wing~~
+- ~~Rygar~~
 - Silkworm
-
+##
+**TOAPLAN**
+- TBD
+## 
+**WILLIAMS** (0/5)
+- Defender
+- Joust
+- Joust 2
+- Robotron 2084
+- Sinistar
