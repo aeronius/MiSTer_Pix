@@ -27,7 +27,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 
 
 
-## CURRENT ROADMAP
+## CURRENT ROADMAP (96/245)
 
 **CONSOLE** (9/10)
 - ~~32X~~
