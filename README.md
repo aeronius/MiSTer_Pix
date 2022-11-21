@@ -312,13 +312,13 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Space Invaders Part II
 - Tokio - Scramble Formation
 ## 
-**TECHNOS** (1/4)
+**TECHNOS** (3/4)
 - ~~Double Dragon~~
 - Double Dragon II
 - ~~Renegade~~
 - ~~V'Ball~~
 ## 
-**TECMO** (2/3)
+**TECMO** (3/3)
 - ~~Gemini Wing~~
 - ~~Rygar~~
 - ~~Silkworm~~
@@ -326,7 +326,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 **TOAPLAN**
 - TBD
 ## 
-**WILLIAMS** (0/5)
+**WILLIAMS** (5/5)
 - ~~Defender~~
 - ~~Joust~~
 - ~~Joust 2~~
