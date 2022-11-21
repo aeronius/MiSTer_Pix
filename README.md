@@ -27,12 +27,19 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 
 
 
-## CURRENT ROADMAP (96/245)
+## CURRENT ROADMAP
 
-**CONSOLE** (9/10)
+**SYSTEM** (3/3)
+- ~~Loading~~
+- ~~Header~~
+- ~~Menu~~
+##
+**CONSOLE** (12/12)
 - ~~32X~~
 - ~~Gameboy~~
-- GBA
+- ~~Gameboy (ALT)~~
+- ~~GBA~~
+- ~~GBA (ALT)~~
 - ~~Genesis~~
 - ~~Sega CD~~
 - ~~Neo Geo~~
@@ -51,7 +58,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Lunar Lander
 - Missile Command
 ## 
-**CAPCOM CPS0** (16/18)
+**CAPCOM CPS0** (18/18)
 - ~~1942~~
 - ~~1943 - The Battle of Midway~~
 - ~~Bionic Commando~~
@@ -63,17 +70,16 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - ~~Gun Smoke~~
 - ~~Legendary Wings~~
 - ~~Pirate Ship Higemaru~~
-- Section Z
+- ~~Section Z~~
 - ~~Side Arms~~
 - ~~Street Fighter~~
-- The Speed Rumbler
+- ~~The Speed Rumbler~~
 - ~~Tiger Road~~
 - ~~Trojan~~
 - ~~Vulgus~~
 ## 
-**CAPCOM CPS1** (23/29)
+**CAPCOM CPS1** (26/30)
 - ~~1941 - Counter Attack~~
-- Block Block
 - ~~Cadillacs and Dinosaurs~~
 - ~~Captain Commando~~
 - ~~Carrier Air WIng~~
@@ -88,11 +94,13 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - ~~Mercs~~
 - ~~Muscle Bomber Duo~~
 - ~~Nemo~~
-- Pnickies
+- ~~Pnickies~~
 - Saturday Night Slam Masters
 - ~~Street Fighter II - The World Warrior~~
-- ~~Street Fighter II' Champion Edition~~ (w/ Alt)
-- ~~Street Fighter II' Hyper Fighting~~ (w/ Alt)
+- ~~Street Fighter II' Champion Edition~~
+- ~~Street Fighter II' Champion Edition (ALT)~~
+- ~~Street Fighter II' Hyper Fighting~~
+- ~~Street Fighter II' Hyper FIghting (ALT)~~
 - ~~Strider~~
 - The King of Dragons
 - ~~The Punisher~~
@@ -114,7 +122,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - ~~Dungeons & Dragons - Shadow Over Mystara~~
 - ~~Dungeons & Dragons - Tower of Doom~~
 - ~~Eco Fighters~~
-- Gig Wing
+- Giga Wing
 - ~~Hyper Street Fighter II - The Anniversary Edition~~
 - Mars Matrix
 - ~~Marvel Super Heroes~~
@@ -128,7 +136,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - ~~Street Fighter Alpha 2~~
 - ~~Street Fighter Alpha 3~~
 - Street Fighter Zero 2 Alpha
-- Super Gem Fighter Mini Mix
+- ~~Super Gem Fighter Mini Mix~~
 - Super Puzzle Fighter II Turbo
 - ~~Super Street Fighter II~~
 - ~~Super Street Fighter II Turbo~~
@@ -136,7 +144,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Vampire Savior 2
 - Vampire Savior
 - ~~X-Men - Children of the Atom~~
-- ~~X-Men Vs. Street Fighter~~
+- X-Men Vs. Street Fighter
 ## 
 **CAPCOM CPS3**
 - TBD
@@ -151,7 +159,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Guwange
 ## 
 **DATA EAST** (5/9)
-- ~~Bad Dues vs. Dragonninja~~
+- ~~Bad Dueds vs. Dragonninja~~
 - Burger Time
 - ~~Heavy Barrel~~
 - ~~Hippodrome~~
@@ -177,7 +185,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Vigilante
 - X Multiply
 ## 
-**KONAMI** (9/24)
+**KONAMI** (8/24)
 - ~~Combat School~~
 - ~~Contra~~
 - Fast Lane
@@ -199,7 +207,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Super Basketball
 - Time Pilot
 - ~~Top Gunner~~
-- ~~Track & Field~~
+- Track & Field
 - ~~Trick Trap~~
 - Yie Ar Kung-Fu
 ## 
@@ -286,8 +294,8 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Wonder Boy III - Monster Lair
 - Wrestle War
 ## 
-**SEGA SYSTEM E** (0/4)
-- Hang On Jr.
+**SEGA SYSTEM E** (1/4)
+- ~~Hang On Jr.~~
 - Opa Opa
 - Slap Shooter
 - Tetris
