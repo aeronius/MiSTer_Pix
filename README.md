@@ -137,7 +137,7 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - ~~Street Fighter Alpha 3~~
 - Street Fighter Zero 2 Alpha
 - ~~Super Gem Fighter Mini Mix~~
-- Super Puzzle Fighter II Turbo
+- ~~Super Puzzle Fighter II Turbo~~
 - ~~Super Street Fighter II~~
 - ~~Super Street Fighter II Turbo~~
 - Vampire Hunter 2
@@ -315,20 +315,20 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 **TECHNOS** (1/4)
 - ~~Double Dragon~~
 - Double Dragon II
-- Renegade
-- V'Ball
+- ~~Renegade~~
+- ~~V'Ball~~
 ## 
 **TECMO** (2/3)
 - ~~Gemini Wing~~
 - ~~Rygar~~
-- Silkworm
+- ~~Silkworm~~
 ##
 **TOAPLAN**
 - TBD
 ## 
 **WILLIAMS** (0/5)
-- Defender
-- Joust
-- Joust 2
-- Robotron 2084
-- Sinistar
+- ~~Defender~~
+- ~~Joust~~
+- ~~Joust 2~~
+- ~~Robotron 2084~~
+- ~~Sinistar~~
