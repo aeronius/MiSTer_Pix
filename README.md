@@ -223,11 +223,11 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 ## 
 **NINTENDO** (0/6)
 - Donkey Kong
-- Donkey Kong 3
+- ~~Donkey Kong 3~~
 - Donkey Kong Junior
-- Mario Bros
-- Popeye
-- Radar Scope
+- ~~Mario Bros~~
+- ~~Popeye~~
+- ~~Radar Scope~~
 ## 
 **MIDWAY** (0/5)
 - Ms. Pac-Man
@@ -300,17 +300,17 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - Slap Shooter
 - Tetris
 ## 
-**SEGA ZAXXON** (0/3)
-- Future Spy
-- Super Zaxxon
-- Zaxxon
+**SEGA ZAXXON** (3/3)
+- ~~Future Spy~~
+- ~~Super Zaxxon~~
+- ~~Zaxxon~~
 ## 
-**TAITO** (1/5)
+**TAITO** (3/5)
 - ~~Bubble Bobble~~
-- Colony 7
+- ~~Colony 7~~
 - Rastan
 - Space Invaders Part II
-- Tokio - Scramble Formation
+- ~~Tokio - Scramble Formation~~
 ## 
 **TECHNOS** (3/4)
 - ~~Double Dragon~~
