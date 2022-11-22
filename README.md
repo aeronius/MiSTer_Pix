@@ -211,28 +211,28 @@ Follow Venice's guide (linked above) to add these images to your MiSTer.
 - ~~Trick Trap~~
 - Yie Ar Kung-Fu
 ## 
-**NAMCO** (0/8)
-- Dig Dug
+**NAMCO** (3/8)
+- ~~Dig Dug~~
 - Dig Dug II
 - Galaga
 - Galaxian
 - Pac-Man
 - Super Pac-Man
-- Super Xevious
-- Xevious
+- ~~Super Xevious~~
+- ~~Xevious~~
 ## 
-**NINTENDO** (0/6)
-- Donkey Kong
+**NINTENDO** (6/6)
+- ~~Donkey Kong~~
 - ~~Donkey Kong 3~~
-- Donkey Kong Junior
+- ~~Donkey Kong Junior~~
 - ~~Mario Bros~~
 - ~~Popeye~~
 - ~~Radar Scope~~
 ## 
-**MIDWAY** (0/5)
+**MIDWAY** (1/5)
 - Ms. Pac-Man
 - Rampage
-- Space Invaders
+- ~~Space Invaders~~
 - Spy Hunter
 - Tapper
 ## 
